@@ -1,0 +1,37 @@
+    body {
+        font-family: Arial, sans-serif;
+    }
+    
+    .nt {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: burlywood;
+        color: white;
+    }
+    
+    .Dc {
+        color: black;
+        margin-right: 50px
+    }
+    
+    header {
+        background-color: burlywood;
+        color: rgb(255, 255, 255);
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .mapa {
+        width: 80%;
+        /* Puedes ajustar el tamaño del mapa */
+        height: 60%;
+        /* Ajusta la altura */
+        max-width: 800px;
+        /* Limitar el ancho máximo del mapa */
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        /* Sombra opcional */
+        border: 0;
+        /* Eliminar borde */
+        margin-left: 25px;
+    }
